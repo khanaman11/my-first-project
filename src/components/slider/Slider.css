@@ -1,0 +1,11 @@
+.item1{
+    width: 171px;
+    box-shadow: rgba(0,0,0,0.14) 0px 3px 5px;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+.item_name{
+    text-align: center;
+    margin: 20px 0 0 0 !important;
+}
